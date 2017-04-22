@@ -1,0 +1,10 @@
+canvas { background:#e2adad; }
+
+
+#draw{
+  position: relative;
+  	left: 50%;
+  	top: 50%;
+  	margin-left: -450px; /* This is half the width */
+  	margin-top: 50px; /* This is half the height */
+}
