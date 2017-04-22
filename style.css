@@ -1,3 +1,8 @@
+body {
+     background-color:#ccc266;
+
+}
+
 canvas { background:#e2adad; }
 
 
@@ -5,6 +10,15 @@ canvas { background:#e2adad; }
   position: relative;
   	left: 50%;
   	top: 50%;
-  	margin-left: -450px; /* This is half the width */
-  	margin-top: 50px; /* This is half the height */
+  	margin-left: -450px;
+  }
+
+h1{
+  text-align: center;
+  color: #b14951
+}
+
+p {
+  text-align: center;
+  color: #b14951
 }
